@@ -1,4 +1,5 @@
-# NYx-2-Emulator
+# NYx-2-Emulator ![NYx 2 EMu](https://github.com/user-attachments/assets/fbcf65f0-e0f3-443e-a221-d7967dfa3e16)
+
 The first ever, open-source, Switch 2 Emulator written in Python.
 
 # WARNING
