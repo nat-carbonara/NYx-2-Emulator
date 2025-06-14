@@ -1,3 +1,5 @@
+#NYX V2 ( 14/06/2025 )
+
 import sys
 from PyQt5.QtWidgets import QMessageBox
 import os
